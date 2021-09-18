@@ -19,3 +19,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için. Lütfen önce neyi 
 Licence
 
 MIT
+<img width="723" alt="ornekProje" src="https://user-images.githubusercontent.com/76011695/133893228-2ca98b5b-1ef0-4ee6-93d0-65d164779816.PNG">
